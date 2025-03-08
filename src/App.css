@@ -1,0 +1,33 @@
+.App {
+  font-family: 'Roboto', sans-serif; /* Use a more modern font */
+  text-align: center;
+  padding: 20px;
+}
+
+.hero {
+  background-color: #f0f8ff; /* Light blue background for hero section */
+  padding: 40px 20px;
+  margin-bottom: 30px;
+}
+
+.features {
+  background-color: #fff;
+  padding: 30px 20px;
+  margin-bottom: 30px;
+}
+
+.testimonials {
+  background-color: #f9f9f9;
+  padding: 30px 20px;
+  margin-bottom: 30px;
+}
+
+.faq {
+  background-color: #fff;
+  padding: 30px 20px;
+  margin-bottom: 30px;
+}
+
+.enroll-button {
+  margin-top: 20px;
+}
