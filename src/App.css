@@ -1,11 +1,11 @@
 .App {
-  font-family: 'Roboto', sans-serif; /* Use a more modern font */
+  font-family: 'Roboto', sans-serif; 
   text-align: center;
   padding: 20px;
 }
 
 .hero {
-  background-color: #f0f8ff; /* Light blue background for hero section */
+  background-color: #f0f8ff; 
   padding: 40px 20px;
   margin-bottom: 30px;
 }
