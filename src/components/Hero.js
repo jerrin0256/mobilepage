@@ -1,19 +1,5 @@
-// import React from 'react';
-// import Typography from '@mui/material/Typography';
-// import Button from '@mui/material/Button';
 
-// function Hero() {
-//   return (
-//     <div style={{ textAlign: 'center', padding: '2rem' }}>
-//       <Typography variant="h4">Master the Art of Digital Illustration</Typography>
-//       <Typography variant="subtitle1">A 4-Week Course Designed for Beginners & Enthusiasts!</Typography>
-//       <Typography variant="body1">Learn to create stunning digital artwork with step-by-step guidance from industry experts. No prior experience required. Just your creativity!</Typography>
-//       <Button variant="contained" color="primary">Enroll now for ₹7,999</Button>
-//     </div>
-//   );
-// }
 
-// export default Hero;
 import React from 'react';
 import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
